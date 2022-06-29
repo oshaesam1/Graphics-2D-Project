@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1654010870 source:f:\code blocks\project\main.cpp
+	<iostream>
+	<math.h>
+	<stack>
+	<fstream>
+	<windows.h>
+	<list>
+	<gdiplus.h>
+	<vector>
+	<tchar.h>
+	<windows.h>
+
+1654010870 source:f:\code blocks\20190123_20190248_20190301_20190610_20190730_s3,4_cs\main.cpp
+	<iostream>
+	<math.h>
+	<stack>
+	<fstream>
+	<windows.h>
+	<list>
+	<gdiplus.h>
+	<vector>
+	<tchar.h>
+	<windows.h>
+
